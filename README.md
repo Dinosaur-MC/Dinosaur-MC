@@ -31,7 +31,7 @@
 
 **Embedded:** <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="Arduino"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/esp32.svg" height="36" alt="ESP32"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/orangepi.png" height="36" alt="Orange Pi"/>
 
-**AI / ML:** <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="36" alt="PyTorch / TensorFlow / OpenCV"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/langchain.png" height="36" alt="LangChain"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/langgraph.svg" height="36" alt="LangGraph"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/stable_diffusion.png" height="36" alt="Stable Diffusion"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/jupyter.png" height="36" alt="Jupyter Notebook"/>
+**AI / ML:** <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="36" alt="PyTorch / TensorFlow / OpenCV"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/langchain.svg" height="36" alt="LangChain"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/langgraph.svg" height="36" alt="LangGraph"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/stable_diffusion.png" height="36" alt="Stable Diffusion"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/jupyter.png" height="36" alt="Jupyter Notebook"/>
 
 ## 📫 Connect / 联系
 
