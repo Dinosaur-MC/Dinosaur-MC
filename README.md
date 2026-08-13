@@ -19,9 +19,9 @@
 
 ## 🛠️ Tech Stack / 技术栈
 
-**Languages:** <img src="https://skillicons.dev/icons?i=cpp,python,java,typescript,javascript" height="36" alt="C++ / Python / Java / TypeScript / JavaScript"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/llvm.png" width="36" alt="LLVM"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/mcfunction.png" width="36" alt="mcfunction (Minecraft Data Pack)"/>
+**Languages:** <img src="https://skillicons.dev/icons?i=cpp,python,java,typescript,javascript" height="36" alt="C++ / Python / Java / TypeScript / JavaScript"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/llvm.png" height="36" alt="LLVM"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/mcfunction.png" height="36" alt="mcfunction (Minecraft Data Pack)"/>
 
-**Backend:** <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" height="36" alt="FastAPI / Spring / Node.js"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/uvicorn.png" width="36" alt="uvicorn"/>
+**Backend:** <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" height="36" alt="FastAPI / Spring / Node.js"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/uvicorn.png" height="36" alt="uvicorn"/>
 
 **Frontend:** <img src="https://skillicons.dev/icons?i=react,vue,html,css,scss" height="36" alt="React / Vue / HTML / CSS / SCSS"/>
 
@@ -29,9 +29,9 @@
 
 **Deploy:** <img src="https://skillicons.dev/icons?i=docker,nginx,linux,cmake,git" height="36" alt="Docker / Nginx / Linux / CMake / Git"/>
 
-**Embedded:** <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="Arduino"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/esp32.svg" width="36" alt="ESP32"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/orangepi.png" width="36" alt="Orange Pi"/>
+**Embedded:** <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="Arduino"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/esp32.svg" height="36" alt="ESP32"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/orangepi.png" height="36" alt="Orange Pi"/>
 
-**AI / ML:** <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="36" alt="PyTorch / TensorFlow / OpenCV"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/langchain.png" width="36" alt="LangChain"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/stable_diffusion.png" width="36" alt="Stable Diffusion"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/jupyter.png" width="36" alt="Jupyter Notebook"/> [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)](https://github.com/langchain-ai/langgraph)
+**AI / ML:** <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="36" alt="PyTorch / TensorFlow / OpenCV"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/langchain.png" height="36" alt="LangChain"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/stable_diffusion.png" height="36" alt="Stable Diffusion"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/jupyter.png" height="36" alt="Jupyter Notebook"/> [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)](https://github.com/langchain-ai/langgraph)
 
 ## 📫 Connect / 联系
 
