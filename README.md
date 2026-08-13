@@ -14,8 +14,9 @@
 
 ## Dinosaur_MC
 
-> 用数据流与字符串工程解决现实问题
-> C++ / Python / Java / Embedded / AI
+> Developer of C++ / Python / Java / Embedded / AI
+> 
+> 让复杂在内部有序流动，让意义在外部清晰显形，让关键被边界妥善守护。
 
 ## 🛠️ Tech Stack / 技术栈
 
