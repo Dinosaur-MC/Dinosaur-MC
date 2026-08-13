@@ -1,6 +1,40 @@
-## Hi there 👋
+```
+┌─ dmc@DMC-STUDIO: ~ ──────────────────────────┐
+│  $ ./dmc --pipeline                          │
+│    ┌─────┐   ┌───────┐   ┌──────┐   ┌─────┐  │
+│    │ RAW │ → │ CLEAN │ → │ FEAT │ → │ OUT │  │
+│    └─────┘   └───────┘   └──────┘   └─────┘  │
+│  $ dmc --motto                               │
+│  Dataflow is all you need!                   │
+│  String defines all you see!                 │
+│  Namespace guards your cheese!               │
+│  $ █                                         │
+└──────────────────────────────────────────────┘
+```
 
-- 🔭 I’m currently working on dozen of projects 
-- 🌱 I’m currently learning microchip, Python, C++, Qt, Java, TypeScript, React, LLM and more...
-- 📫 How to reach me: [Bilibili](https://space.bilibili.com/85607675)
-- ⚡ Fun fact: More fixing, more bugs :(
+## Dinosaur_MC
+
+> 用数据流与字符串工程解决现实问题
+> C++ / Python / Java / Embedded / AI
+
+## 🛠️ Tech Stack / 技术栈
+
+**Languages:** <img src="https://skillicons.dev/icons?i=cpp,python,java,typescript,javascript" height="36" alt="C++ / Python / Java / TypeScript / JavaScript"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/llvm.png" width="36" alt="LLVM"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/mcfunction.png" width="36" alt="mcfunction (Minecraft Data Pack)"/>
+
+**Backend:** <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" height="36" alt="FastAPI / Spring / Node.js"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/uvicorn.png" width="36" alt="uvicorn"/>
+
+**Frontend:** <img src="https://skillicons.dev/icons?i=react,vue,html,css,scss" height="36" alt="React / Vue / HTML / CSS / SCSS"/>
+
+**Data:** <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite" height="36" alt="MySQL / PostgreSQL / Redis / SQLite"/>
+
+**Deploy:** <img src="https://skillicons.dev/icons?i=docker,nginx,linux,cmake,git" height="36" alt="Docker / Nginx / Linux / CMake / Git"/>
+
+**Embedded:** <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="Arduino"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/esp32.svg" width="36" alt="ESP32"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/orangepi.png" width="36" alt="Orange Pi"/>
+
+**AI / ML:** <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="36" alt="PyTorch / TensorFlow / OpenCV"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/langchain.png" width="36" alt="LangChain"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/stable_diffusion.png" width="36" alt="Stable Diffusion"/> <img src="https://raw.githubusercontent.com/Dinosaur-MC/Dinosaur-MC/main/assets/icons/jupyter.png" width="36" alt="Jupyter Notebook"/> [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)](https://github.com/langchain-ai/langgraph)
+
+## 📫 Connect / 联系
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinosaur-MC)
+[![Email](https://img.shields.io/badge/Dinosaur_MC@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dinosaur_MC@outlook.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/85607675)
